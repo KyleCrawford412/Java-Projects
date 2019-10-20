@@ -1,2 +1,2 @@
 # Java-Projects
-IB Computer Science assignments done in Java
+A map program that creates a phone book
