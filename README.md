@@ -1,2 +1,2 @@
 # Java-Projects
-IB Computer Science assignments done in Java
+Creating a doubly linked list that holds information about a person
