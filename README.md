@@ -1,2 +1,2 @@
 # Java-Projects
-IB Computer Science assignments done in Java
+Singly linked list that holds data about students
