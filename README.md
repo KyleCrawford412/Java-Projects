@@ -1,2 +1,2 @@
 # Java-Projects
-IB Computer Science assignments done in Java
+Using queues to create a waiting list for a doctor's office
